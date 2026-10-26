@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/badge/Swift-5.9%2B-orange" alt="Swift">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
   <img src="https://img.shields.io/badge/status-early%20WIP-yellow" alt="Status">
-  <a href="https://buymeacoffee.com/jcbuilds"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"></a>
 </p>
 
 <h1 align="center">🕸️ Mesh</h1>
@@ -15,6 +14,12 @@
 
 <p align="center">
   Discover • Route • Stream • Fall-back gracefully
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/jcbuilds"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="200"></a>
+  <br>
+  <sub>If Mesh is useful to you, a coffee keeps it going.</sub>
 </p>
 
 ---
