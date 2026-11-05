@@ -72,9 +72,11 @@ try await mesh.host(model: "Llama-3.3-70B-Instruct.Q4_K_M.gguf")
 
 ## Installation
 
+No version is tagged yet, so depend on the `main` branch for now:
+
 ```swift
 dependencies: [
-    .package(url: "https://github.com/haplollc/Mesh.git", from: "0.1.0")
+    .package(url: "https://github.com/haplollc/Mesh.git", branch: "main")
 ]
 ```
 
