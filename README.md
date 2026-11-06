@@ -84,4 +84,4 @@ dependencies: [
 
 ## License
 
-MIT © [Haplo LLC](https://haplo.ai)
+MIT © [Haplo LLC](https://haploapp.com)
